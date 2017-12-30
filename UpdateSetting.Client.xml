@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Main>
+  <!--此处端口号若是没有的话就不用填写-->
+  <ftpServerIP text="ftp地址" value="122.114.36.252" />
+  <ftpServerSocket text="ftp端口" value="" />
+  <ftpServerDirect text="根目录路径" value="UTSOFT/TestUpdate" />
+  <ftpServerUserId text="登录用户" value="utsoft" />
+  <ftpServerPassword text="密码" value="9JZkhjduPQvD"/>
+  
+  <!--本地客户端版本号-->
+  <Version text="版本号" value="0.8" />
+  <!--<exepath text="目录" value="C:\Users\hl\Desktop\自动升级"/>-->
+  <!--不填写目录则默认取程序安装目录-->
+  <exefile text="主程序" value ="UTSOFTMAIN.exe"/>
+  <windowTitle text="显示标题" value="优梯教育内部软件自动更新"/>
+</Main>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ftp下载">
+</Property><Property Name="解决方案文件" Value="D:\SharpDevelop Projects\ftp下载\ftp下载.sln">
+</Property><Property Name="用户选项文件" Value="D:\SharpDevelop Projects\ftp下载\ftp下载.suo">
+</Property><Property Name="Date" Value="2016年11月24日">
+</Property><Property Name="Time" Value="10:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ftp下载.sln" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\ftp下载.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ftp下载.suo" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\ftp下载.suo">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="ftp下载.csproj" Description="项目文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\ftp下载.csproj">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="ftp下载.csproj.user" Description="项目用户文件成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\ftp下载.csproj.user">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="frmUpdate.cs" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\frmUpdate.cs">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="frmUpdate.Designer.cs" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\frmUpdate.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="FtpWeb.cs" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\FtpWeb.cs">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="Program.cs" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="FtpUpdate.cs" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\FtpUpdate.cs">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="images\自动更新.bmp" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\images\自动更新.bmp">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="readme.txt" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\readme.txt">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="UpdateSetting.Svc.xml" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\UpdateSetting.Svc.xml">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="UpdateSetting.Client.xml" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\UpdateSetting.Client.xml">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="frmUpdate.resx" Description="文件已成功备份为 D:\SharpDevelop Projects\ftp下载\Backup\frmUpdate.resx">
+</Event><Event ErrorLevel="0" Project="ftp下载" Source="ftp下载.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="ftp下载" Source="ftp下载.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="" Source="ftp下载.sln" Description="无法转换解决方案文件“D:\SharpDevelop Projects\ftp下载\ftp下载.sln”，因为它在磁盘上是只读的。若要转换此解决方案，请将此解决方案文件的权限更改为允许修改，然后重新打开它。">
+</Event><Event ErrorLevel="3" Project="" Source="ftp下载.sln" Description="未转换">
+</Event></UpgradeLog>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Main>
+  <!--服务器专用-->
+  <!--版本号-->
+  <Version text = "版本号" value = "1.0" />
+  
+  <!--更新文件清单,status参数表示是否更新（用于加快更新速度，忽略哪些没有改动的文件）-->
+  <FileList>
+    <!--<File text = "" name = "sub\notepad.dll" status = "1" />  1为需要更新-->
+    <File text = "主程序文件" name = "UTSOFTMAIN.exe" status = "1" />
+    <File text = "dll文件1" name = "DevComponents.DotNetBar2.dll" status = "0" />
+    <File text = "dll文件2" name = "DotNetPrint.dll" status = "0" />
+    <File text = "dll文件3" name = "HttpHelper.dll" status = "0" />
+    <File text = "dll文件4" name = "ICSharpCode.SharpZipLib.dll" status = "0" />
+    <File text = "dll文件5" name = "MODEL.dll" status = "0" />
+    <File text = "dll文件6" name = "MySql.Data.dll" status = "0" />
+    <File text = "dll文件7" name = "Newtonsoft.Json.dll" status = "0" />
+  </FileList>
+</Main>

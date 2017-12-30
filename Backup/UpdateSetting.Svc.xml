@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Main>
+  <!--版本号-->
+  <Version text = "版本号" value = "1.0" />
+  
+  <!--更新文件清单-->
+  <FileList>
+    <File text = "" name = "sub\notepad.dll" status = "1" />
+    <File text = "" name = "notepad.exe" status = "1" />
+  </FileList>
+
+</Main>
